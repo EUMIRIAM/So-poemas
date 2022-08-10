@@ -1,0 +1,48 @@
+body {
+	background: #f3d3d3;
+	font-family: verdana;
+	max-width: 500px;
+	margin: auto;
+}
+
+#title,
+.subtitle {
+	color: rgba(0, 0, 0, 0.938);
+}
+
+#title {
+	font-size: 30px;
+	text-transform: uppercase;
+}
+
+a {
+	text-decoration: line-through;
+	color: #fa5353;
+}
+
+.post_title {
+	font-size: 16px;
+	font-style: italic;
+	margin: 0;
+	margin-bottom: 10px;
+}
+
+.POEMAS-DA-TURMA-DA-MONICA img {
+	margin-inline: auto;
+	display: block;
+}
+
+.POEMAS-DA-TURMA-DA-MONICA {
+	background: #fff;
+	padding: 15px;
+	border: 8px solid rgb(155, 26, 26);
+	margin-bottom: 15px;
+	border-radius: 5px;
+}
+
+.post-content {
+	margin: 0;
+	margin-bottom: 15px;
+	text-transform: capitalize;
+	text-align: justify;
+}
